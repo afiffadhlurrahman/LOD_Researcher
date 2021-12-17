@@ -7,7 +7,7 @@
 @prefix dbr: <http://dbpedia.org/resource/> .
 @prefix wikidata: <http://www.wikidata.org/entity/> .
 @prefix dbo: <http://dbpedia.org/ontology/> .
-@prefix baseVocab: <https://raw.githubusercontent.com/afiffadhlurrahman/test_OLD/main/vocab.ttl#> .
+@prefix baseVocab: <https://raw.githubusercontent.com/afiffadhlurrahman/LOD_Researcher/main/vocab_behavex.ttl#> .
 
 #############################################################
 #			CLASS RESEARCHER				#
