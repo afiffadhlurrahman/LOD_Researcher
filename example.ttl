@@ -1,0 +1,21 @@
+@prefix schema: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix dbpedia-id: <http://id.dbpedia.org/resource/> .
+@prefix wikidata: <http://www.wikidata.org/entity/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix baseVocab: <https://raw.githubusercontent.com/afiffadhlurrahman/LOD_Researcher/main/vocab_behavex.ttl#> .
+@prefix d: <https://raw.githubusercontent.com/afiffadhlurrahman/LOD_Researcher/main/example.ttl#>
+
+d:0000013047 a baseVocab:Researcher ;
+		baseVocab:name "Fahmi Oscandar" ;
+		baseVocab:nidn "0000013047" ;
+		baseVocab:university baseVocab:Univ9 ;
+		baseVocab:sintaPage <https://sinta.ristekbrin.go.id/authors/detail/?id=6020556&view=overview> .
+
+d:0001015304 a baseVocab:Researcher ;
+		baseVocab:name "Urip Harahap" ;
+		baseVocab:nidn "0001015304" ;
+		baseVocab:university baseVocab:Univ11 ;
+		baseVocab:sintaPage <https://sinta.ristekbrin.go.id/authors/detail/?id=6014155&view=overview> .
